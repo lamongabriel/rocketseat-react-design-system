@@ -12,5 +12,7 @@ module.exports = {
     if (configType === 'PRODUCTION') {
       config.base = '/rocketseat-react-design-system/'
     }
+
+    return config
   }
 }
