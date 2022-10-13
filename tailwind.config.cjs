@@ -27,6 +27,9 @@ module.exports = {
     extend: {
       fontFamily: {
         sans: 'Inter, sans-serif'
+      },
+      animation: {
+        'spin-slow': 'spin 5s linear infinite'
       }
     }
   },

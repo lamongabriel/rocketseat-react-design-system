@@ -8,4 +8,6 @@ You can find the figma layout [here](https://www.figma.com/file/XdVQjN86SC98qVSz
 
 This storybook has the object to padronize components, pages and UI elements to obtain a quality control when you're building a large view, for example, a complex form.
 
+This project is hosted on GitHub pages, check it out: [https://lamongabriel.github.io/rocketseat-react-design-system](https://lamongabriel.github.io/rocketseat-react-design-system)
+
 ![Main project image](./design.png)
